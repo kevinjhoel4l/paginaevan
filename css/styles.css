@@ -1,0 +1,39 @@
+*{
+	font-family: "Roboto";
+}
+header{
+	background: rgba(0,0,0,1);
+}
+
+#nav_logo{
+	width: 120px;
+}
+
+#parrafo_aparta_una_fecha{
+	font-size: 18px;
+}
+#separador_verde{
+	background: #00FF18;
+	width: 50px;
+}
+.puntito_verde{
+	font-size: 100px;
+	color: #00FF3C;
+}
+h2{
+	font-size: 50px;
+}
+.form-control{
+	border: solid 1px #FFFFFF;
+}
+
+.form-control:focus{
+	border: solid 1px #0CFF00;
+	outline: 0 none;
+
+}
+.enviar_solicitud{
+	padding: 1rem;
+	background: #00FF0C;
+}
+
